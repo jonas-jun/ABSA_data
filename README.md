@@ -32,10 +32,10 @@ by Junmai [github](https://github.com/jonas-jun/DS_clustering_music), March, 202
 **Description**  
 
 *XML*  
-![image_XML](.img/ABSA_XML.jpg)
+![ABSA_XML](.img/ABSA_XML.jpg)
 
 *table*
-![image_dataframe](.img/ABSA_table.jpg)
+![ABSA_table](.img/ABSA_table.jpg)
 
 
 ```python
