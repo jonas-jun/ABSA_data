@@ -8,7 +8,8 @@ by Junmai [github](https://github.com/jonas-jun/DS_clustering_music), March, 202
 **Dataset**  
   
 \< FULL \>
-1. SemEval-2016 task5 Subtask1 domain: restaurant, laptop
+1. SemEval-2016 task5 Subtask1: Sentence level ABSA
+2. SemEval-2016 task5 Subtask2: ABSA for full review text
 
 \< TRIAL \>
 1. SemEval-2016 task5 Subtask1 domain: restaurant
